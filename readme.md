@@ -23,7 +23,7 @@ new_data = ["1", #Введите пол Female or Male \ 0 or 1
             "29", #Введите возраст 10.0
             "1", #'hypertension'0 or 1,
             "1", #'heart_disease'0 or 1,
-            "1", #'smoking_history' never, ever, current, not current
+            "1", #'smoking_history' 0 \ 0.1\ 0.5 \ 1 never, not current, current, ever
             "22.92", #'bmi'10.0,
             "6.5", #'HbA1c_level'10.0,
             "10.5" ] #'blood_glucose_level' mmol 6.2 or md\dl
